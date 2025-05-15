@@ -34,7 +34,7 @@ The agent is built with the following components:
 
 The agent requires the following environment variables:
 
-ELEGRAM_BOT_TOKEN=your_telegram_bot_token
-TELEGRAM_CHAT_ID=your_telegram_chat_id
-SMITHERY_API_KEY=your_smithery_api_key
-OPENAI_API_KEY=your_openai_api_key
+- TELEGRAM_BOT_TOKEN=your_telegram_bot_token
+- TELEGRAM_CHAT_ID=your_telegram_chat_id
+- SMITHERY_API_KEY=your_smithery_api_key
+-  sOPENAI_API_KEY=your_openai_api_key
